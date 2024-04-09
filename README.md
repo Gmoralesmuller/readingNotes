@@ -1,7 +1,7 @@
 # **reading-notes**
 ---
   > En esta página se ira trabajando todos los proyectos de los diversos code; cada vez mejorando la presentación segun aplique lo aprendido. 
----
+
 ## 1. **Code 102** - Introducción al Desarrollo de Software
 
 ## 2. **Code 201** - Fundamentos del Desarrollo de Software
