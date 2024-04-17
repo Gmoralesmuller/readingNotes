@@ -12,7 +12,17 @@ El atributo `<href>`  contendra la dirección web hacia donde nos queremos que s
 
 ### 3. ¿Cuáles son algunas de las formas en las que podemos asegurarnos de que los enlaces a nuestras páginas sean accesibles a todos los lectores?
 
+Serian las siguientes formas:
 
+    * Evita simplemente rellenar una página con enlaces. En lugar de eso, asegúrate de que los enlaces sean comprensibles para todo tipo de lectores, independientemente del contexto o las herramientas que utilicen.
+    * Los usuarios de lectores de pantalla suelen saltar de enlace a enlace en la página y los leen sin contexto. Por lo tanto, es importante que el texto del enlace sea descriptivo y claro.
+    * Los motores de búsqueda utilizan el texto de los enlaces para indexar los archivos buscados. Incluir palabras clave relevantes en el texto del enlace ayuda a describir de manera efectiva el sitio al que apunta.
+    * Los usuarios visuales suelen escanear rápidamente la página y leer solo lo que les interesa. Los textos descriptivos en los enlaces son útiles para este tipo de usuarios.
+
+ Otras recomendariones:
+
+    * Evita repetir la URL como parte del texto del enlace, ya que las URLs pueden sonar mal cuando se leen letra por letra.
+    * No escribas “link” o “enlace” en el texto del enlace, ya que es redundante. Los lectores automáticos indican que hay un enlace al encontrarlo, y los usuarios también saben que están interactuando con un enlace.
 
 ***
 
