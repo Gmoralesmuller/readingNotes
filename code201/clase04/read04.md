@@ -24,6 +24,12 @@ Serian las siguientes formas:
     * Evita repetir la URL como parte del texto del enlace, ya que las URLs pueden sonar mal cuando se leen letra por letra.
     * No escribas “link” o “enlace” en el texto del enlace, ya que es redundante. Los lectores automáticos indican que hay un enlace al encontrarlo, y los usuarios también saben que están interactuando con un enlace.
 
+#### **Enlaces de Fuentes**
+
+- [Aprende HTML](https://developer.mozilla.org/es/docs/Learn/HTML)
+
+- [Crea Hipervinculos](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
+
 ***
 
 ## *CSS: Layout: Normal Flow CSS: Layout: Positioning*
@@ -38,6 +44,14 @@ Serian las siguientes formas:
 
 ### 5. ¿Cuál es una diferencia clave entre fixed positioning y absolute positioning?
 
+#### **Enlaces de Fuentes**
+
+- [CSS Layout](https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout)
+
+- [CSS: Layout: Normal Flow](https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Normal_Flow)
+
+- [CSS: Layout: Positioning](https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Positioning)
+
 ***
 
 ## *Funciones*
@@ -46,8 +60,35 @@ Serian las siguientes formas:
 
 ### 2. ¿Cuál es la diferencia entre un parameter y un argument?
 
+#### **Enlaces de Fuentes**
+
+- [Aprende JS](https://developer.mozilla.org/es/docs/Learn/JavaScript)
+
+- [Funciones](https://imoralescs.gitbooks.io/javascript/content/funciones.html)
+
 ***
 
 ## *Beneficios del Pair Programming*
 
 ### * Escoge 2 beneficios del pair programming y reflexiona acereca de cómo estos beneficios te pueden ayudar en tu carrera como programador.
+
+## *Cosas que me gustaría aprender más*
+
+- Descubrir y probar nuevas herramientas y tecnologías que me ayuden a desarrollarme más en Front end.
+
+- Perfeccionar y conocer más sobre estilos de Css para mis proyectos.
+
+- Aprender sobre patrones de diseño de software que pueda incluir en mis proyectos.
+
+### Autor
+
+  Georgina Morales: [Gmoralesmuller](https://github.com/Gmoralesmuller)`(GitHub)` ![Github](https://iconduck.com/icons/21155/github?shared){width=10px}
+
+
+###### *Este contenido fue en colaboracion y apoyo de Chatbot (Chat GPT)*
+
+### Creacion
+
+- Miercoles 17 de Abril del 2024.
+
+Enlace de este contenido [class-04](https://omartpiza.github.io/reading-notes/201/class-04)
