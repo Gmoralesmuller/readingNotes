@@ -82,7 +82,7 @@ Serian las siguientes formas:
 
 ### Autor
 
-  Georgina Morales: [Gmoralesmuller](https://github.com/Gmoralesmuller)`(GitHub)` ![Github](https://1000marcas.net/wp-content/uploads/2020/02/GitHub-Logo.jpg){width=20px}
+  Georgina Morales: [Gmoralesmuller](https://github.com/Gmoralesmuller)`(GitHub)`
 
 
 ###### *Este contenido fue en colaboracion y apoyo de Chatbot (Chat GPT)*
