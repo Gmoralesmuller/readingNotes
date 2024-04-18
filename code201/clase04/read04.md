@@ -91,4 +91,4 @@ Serian las siguientes formas:
 
 - Miercoles 17 de Abril del 2024.
 
-Enlace de este contenido [class-04](https://omartpiza.github.io/reading-notes/201/class-04)
+Enlace de este contenido [clase04](https://Gmoralesmuller.github.io/readingNotes/code201/clase04)
