@@ -1,6 +1,6 @@
 # Read06 
 
-##Javascript 
+## Javascript 
 
 ### ¿Cómo le describirías un objeto a un amigo sin conocimiento técnico con el que creciste?
 
@@ -21,7 +21,8 @@ Imagina que un objeto es como una caja mágica que puede contener muchas cosas d
 ### Da un ejemplo acerca de los momentos en los que necesitarías utilizar bracket notation para acceder a la propiedad de un objeto en vez de dot notation.
 
     - *Bracket notation:* Se utiliza cuando el nombre de la propiedad que queremos acceder está almacenado en una variable o cuando la clave contiene caracteres especiales o espacios.
-    - *Dot notation:* Se utiliza cuando conocemos el nombre de la propiedad de antemano y este es un identificador válido (no contiene caracteres especiales ni espacios).
+    - *Dot notation:* Se utiliza cuando conocemos el nombre de la propiedad de antemano y este es un identificador válido
+     (no contiene caracteres especiales ni espacios).
 Por ejemplo, si tienes un objeto persona y quieres acceder a su propiedad edad, puedes usar dot notation (persona.edad). Pero si el nombre de la propiedad está almacenado en una variable, debes usar bracket notation (persona[nombrePropiedad]).
 
 ### Evalúa el siguiente código. ¿A qué se refiere el término this y cuál es la ventaja de utilizarlo?
