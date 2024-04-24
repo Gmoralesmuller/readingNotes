@@ -42,7 +42,6 @@ Serian las siguientes formas:
 
 ### 1. ¿A qué se refiere con “normal flow”?
 
-
     El "flujo normal" o "normal flow" se refiere al comportamiento predeterminado de los elementos en una página web cuando no se aplica ningún estilo de CSS que altere su disposición natural. En este flujo normal, los elementos se distribuyen en función de su tipo (bloque o en línea) y se presentan de acuerdo con el modelo de caja estándar, que incluye el contenido, el relleno, el borde y los márgenes.
 
 ### 2. ¿Cuáles son algunas de las diferencias entre los elementos block-level e inline?
@@ -74,6 +73,7 @@ Serian las siguientes formas:
     - Anidamiento de elementos: Los elementos posicionados absolutamente pueden anidarse dentro de otros elementos y mantener su posición relativa a su contenedor más cercano con un posicionamiento relativo. Esto permite una estructura más modular y flexible en el diseño.
 
 ### 5. ¿Cuál es una diferencia clave entre fixed positioning y absolute positioning?
+
     Una diferencia clave entre fixed positioning y absolute positioning es cómo se relacionan con el desplazamiento de la página:
 
     - Absolute positioning: Los elementos posicionados absolutamente se colocan en relación con el primer 
