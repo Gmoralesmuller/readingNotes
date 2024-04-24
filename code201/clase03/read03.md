@@ -138,4 +138,4 @@ for (let i = 0; i < listaTareas.length; i++) {
 
 En este ejemplo, el bucle `for` se ejecuta tantas veces como elementos haya en el array `listaTareas`, permitiendo que cada tarea se muestre en la interfaz. Esto hace que el código sea más eficiente y escalable, ya que no necesitas escribir una línea de código para cada tarea, sino que el bucle se encarga de manejar todas ellas de manera automatizada.
 
-######*Este contenido fue desarrollado con el apoyo de chatgpt*
+###### *Este contenido fue desarrollado con el apoyo de chatgpt*
